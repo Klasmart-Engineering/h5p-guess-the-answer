@@ -27,6 +27,7 @@
 
 .h5p-guess-answer .show-solution-button {
   display: block;
+  font-family: 'Roboto', sans-serif;
   line-height: 1em;
   cursor: pointer;
   font-size: 16px;
