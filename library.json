@@ -2,8 +2,8 @@
   "title": "Guess the Answer",
   "description": "Set up a task where the user will just click to see the answer. No input.",
   "majorVersion": 1,
-  "minorVersion": 4,
-  "patchVersion": 10,
+  "minorVersion": 5,
+  "patchVersion": 0,
   "runnable": 1,
   "coreApi": {
     "majorVersion": 1,
@@ -30,6 +30,11 @@
       "machineName": "FontAwesome",
       "majorVersion": 4,
       "minorVersion": 5
+    },
+    {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
     }
   ]
 }
